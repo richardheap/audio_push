@@ -1,0 +1,21 @@
+name: audio_push
+description: An simple, example plugin to push blocks of audio to the sound card
+version: 0.0.1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  plugin:
+    androidPackage: io.swhh.audio_push
+    pluginClass: AudioPushPlugin
+

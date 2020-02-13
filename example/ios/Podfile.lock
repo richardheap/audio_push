@@ -1,0 +1,22 @@
+PODS:
+  - audio_push (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - audio_push (from `.symlinks/plugins/audio_push/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  audio_push:
+    :path: ".symlinks/plugins/audio_push/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  audio_push: 69422246448b70531d9d7bb8ab2a5c0f95a9d494
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.8.4
